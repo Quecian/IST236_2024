@@ -1,5 +1,5 @@
 
-# IST236
+# IST236_2024
 
 This is my first file in my GitHub repository. 
 
